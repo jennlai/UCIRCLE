@@ -87,7 +87,7 @@ class HomeViewController: UIViewController, UITableViewDataSource, UITableViewDe
 //            
 //            once = !once
 //        }
-        
+//        
         loadData()
         
         if (!once) {
