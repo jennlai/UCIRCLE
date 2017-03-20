@@ -1,0 +1,58 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6FFEC4C088AA179BEC7021828A6F9AF4639AB0B7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6FFEC4C088AA179BEC7021828A6F9AF4639AB0B7" : 9223372036854775807,
+    "BDADEDA6922EA8C5B4A116E3D70FA3623BB621C2" : 9223372036854775807,
+    "1CB407877E60493DEA48AD39A89F4183F47A1017" : 9223372036854775807,
+    "0FAE8D0CE020D3BA341DA0F036AD7727C21B6BC7" : 9223372036854775807,
+    "73128F303C9CA761D49A0D092719945AB95F53C2" : 9223372036854775807,
+    "BD782D36C47A61D3267A5003798926B9B7FA5236" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C2878242-BC00-4E7C-A17B-BD027A29B852",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6FFEC4C088AA179BEC7021828A6F9AF4639AB0B7" : "UCIRCLEDB-master\/",
+    "BDADEDA6922EA8C5B4A116E3D70FA3623BB621C2" : "UCIRCLEApp\/",
+    "1CB407877E60493DEA48AD39A89F4183F47A1017" : "UCIRCLEApp-master\/",
+    "0FAE8D0CE020D3BA341DA0F036AD7727C21B6BC7" : "ics125-UCIRCLE\/",
+    "73128F303C9CA761D49A0D092719945AB95F53C2" : "UCIRCLEApp\/",
+    "BD782D36C47A61D3267A5003798926B9B7FA5236" : "UCIRCLEDB\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UCIRCLE",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UCIRCLE.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jennlai\/UCIRCLEApp-master.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0FAE8D0CE020D3BA341DA0F036AD7727C21B6BC7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jennellelai\/UCIRCLEApp-master.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1CB407877E60493DEA48AD39A89F4183F47A1017"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jennellelai\/UCIRCLEDB-master.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FFEC4C088AA179BEC7021828A6F9AF4639AB0B7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jennellelai\/UCIRCLEApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "73128F303C9CA761D49A0D092719945AB95F53C2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jennellelai\/UCIRCLEDB.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BD782D36C47A61D3267A5003798926B9B7FA5236"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jennlai\/UCIRCLE.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BDADEDA6922EA8C5B4A116E3D70FA3623BB621C2"
+    }
+  ]
+}
